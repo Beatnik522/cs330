@@ -1,0 +1,225 @@
+﻿  cube.cpp
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\vertexBufferObject.h(1,1): error C2019: expected preprocessor directive, found '#'
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\staticMesh3D.h(6,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\vertexBufferObject.h(119,11): error C2146: syntax error: missing ';' before identifier 'once'
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\staticMesh3D.h(6,28): error C2143: syntax error: missing ';' before '{'
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\staticMesh3D.h(6,28): error C2447: '{': missing function header (old-style formal list?)
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\cube.h(23,5): error C2504: 'StaticMesh3D': base class undefined
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\cube.h(27,14): error C3668: 'static_meshes_3D::Cube::render': method with override specifier 'override' did not override any base class methods
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\cube.h(28,14): error C3668: 'static_meshes_3D::Cube::renderPoints': method with override specifier 'override' did not override any base class methods
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\cube.h(36,14): error C3668: 'static_meshes_3D::Cube::initializeData': method with override specifier 'override' did not override any base class methods
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\cube.cpp(42,11): error C2614: 'static_meshes_3D::Cube': illegal member initialization: 'StaticMesh3D' is not a base or member
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\cube.cpp(49,14): error C2065: '_isInitialized': undeclared identifier
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\cube.cpp(53,27): error C2065: '_vao': undeclared identifier
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\cube.cpp(59,14): error C2065: '_isInitialized': undeclared identifier
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\cube.cpp(63,27): error C2065: '_vao': undeclared identifier
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\cube.cpp(69,14): error C2065: '_isInitialized': undeclared identifier
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\cube.cpp(73,27): error C2065: '_vao': undeclared identifier
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\cube.cpp(97,13): error C2065: '_isInitialized': undeclared identifier
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\cube.cpp(101,31): error C2065: '_vao': undeclared identifier
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\cube.cpp(102,27): error C2065: '_vao': undeclared identifier
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\cube.cpp(105,37): error C3861: 'getVertexByteSize': identifier not found
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\cube.cpp(106,9): error C2065: '_vbo': undeclared identifier
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\cube.cpp(107,9): error C2065: '_vbo': undeclared identifier
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\cube.cpp(109,13): error C3861: 'hasPositions': identifier not found
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\cube.cpp(111,13): error C2065: '_vbo': undeclared identifier
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\cube.cpp(114,13): error C3861: 'hasTextureCoordinates': identifier not found
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\cube.cpp(118,17): error C2065: '_vbo': undeclared identifier
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\cube.cpp(122,13): error C3861: 'hasNormals': identifier not found
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\cube.cpp(126,17): error C2065: '_vbo': undeclared identifier
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\cube.cpp(130,9): error C2065: '_vbo': undeclared identifier
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\cube.cpp(131,9): error C3861: 'setVertexAttributesPointers': identifier not found
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\cube.cpp(132,9): error C2065: '_isInitialized': undeclared identifier
+  Source.cpp
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\shader.h(57,34): warning C4101: 'e': unreferenced local variable
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\vertexBufferObject.h(1,1): error C2019: expected preprocessor directive, found '#'
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\staticMesh3D.h(6,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\vertexBufferObject.h(119,11): error C2146: syntax error: missing ';' before identifier 'once'
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\staticMesh3D.h(6,28): error C2143: syntax error: missing ';' before '{'
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\staticMesh3D.h(6,28): error C2447: '{': missing function header (old-style formal list?)
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\cube.h(23,5): error C2504: 'StaticMesh3D': base class undefined
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\cube.h(27,14): error C3668: 'static_meshes_3D::Cube::render': method with override specifier 'override' did not override any base class methods
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\cube.h(28,14): error C3668: 'static_meshes_3D::Cube::renderPoints': method with override specifier 'override' did not override any base class methods
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\cube.h(36,14): error C3668: 'static_meshes_3D::Cube::initializeData': method with override specifier 'override' did not override any base class methods
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\cylinder.h(12,5): error C2504: 'StaticMesh3D': base class undefined
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\cylinder.h(17,14): error C3668: 'static_meshes_3D::Cylinder::render': method with override specifier 'override' did not override any base class methods
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\cylinder.h(18,14): error C3668: 'static_meshes_3D::Cylinder::renderPoints': method with override specifier 'override' did not override any base class methods
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\cylinder.h(44,14): error C3668: 'static_meshes_3D::Cylinder::initializeData': method with override specifier 'override' did not override any base class methods
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\staticMeshIndexed3D.h(12,5): error C2504: 'StaticMesh3D': base class undefined
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\staticMeshIndexed3D.h(17,14): error C3668: 'static_meshes_3D::StaticMeshIndexed3D::deleteMesh': method with override specifier 'override' did not override any base class methods
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\torus.h(17,14): error C3668: 'static_meshes_3D::Torus::render': method with override specifier 'override' did not override any base class methods
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\torus.h(18,14): error C3668: 'static_meshes_3D::Torus::renderPoints': method with override specifier 'override' did not override any base class methods
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\torus.h(36,14): error C3668: 'static_meshes_3D::Torus::initializeData': method with override specifier 'override' did not override any base class methods
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\vertexBufferObject.h(1,1): error C2019: expected preprocessor directive, found '#'
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\vertexBufferObject.h(13,1): error C2011: 'VertexBufferObject': 'class' type redefinition
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\vertexBufferObject.h(12): message : see declaration of 'VertexBufferObject'
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\Source.cpp(22,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\vertexBufferObject.h(119,4): error C2086: 'int pragma': redefinition
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\vertexBufferObject.h(119): message : see declaration of 'pragma'
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\vertexBufferObject.h(119,11): error C2146: syntax error: missing ';' before identifier 'once'
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\Source.cpp(240,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\Source.cpp(275,56): warning C4305: 'argument': truncation from 'double' to 'float'
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\Source.cpp(276,60): warning C4305: 'argument': truncation from 'double' to 'float'
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\Source.cpp(283,56): warning C4305: 'argument': truncation from 'double' to 'float'
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\Source.cpp(284,60): warning C4305: 'argument': truncation from 'double' to 'float'
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\Source.cpp(291,56): warning C4305: 'argument': truncation from 'double' to 'float'
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\Source.cpp(292,60): warning C4305: 'argument': truncation from 'double' to 'float'
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\Source.cpp(299,56): warning C4305: 'argument': truncation from 'double' to 'float'
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\Source.cpp(300,60): warning C4305: 'argument': truncation from 'double' to 'float'
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\Source.cpp(308,51): warning C4305: 'argument': truncation from 'double' to 'float'
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\Source.cpp(309,55): warning C4305: 'argument': truncation from 'double' to 'float'
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\Source.cpp(355,10): error C2374: 'angle': redefinition; multiple initialization
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\Source.cpp(335): message : see declaration of 'angle'
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\Source.cpp(356,18): error C2672: 'glm::rotate': no matching overloaded function found
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\Source.cpp(356,81): error C2780: 'glm::qua<T,Q> glm::rotate(const glm::qua<T,Q> &,const T &,const glm::vec<3,T,Q> &)': expects 3 arguments - 2 provided
+C:\OpenGL\glm\glm\ext\quaternion_transform.hpp(43): message : see declaration of 'glm::rotate'
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\Source.cpp(356,81): error C2780: 'glm::mat<4,4,T,Q> glm::rotate(const glm::mat<4,4,T,Q> &,T,const glm::vec<3,T,Q> &)': expects 3 arguments - 2 provided
+C:\OpenGL\glm\glm\ext\matrix_transform.hpp(80): message : see declaration of 'glm::rotate'
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\Source.cpp(358,69): warning C4305: 'argument': truncation from 'double' to 'float'
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\Source.cpp(435,4): error C2065: 'cout': undeclared identifier
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\Source.cpp(435,43): error C2065: 'endl': undeclared identifier
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\Source.cpp(437,4): error C2065: 'cout': undeclared identifier
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\Source.cpp(437,44): error C2065: 'endl': undeclared identifier
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\Source.cpp(444,4): error C2065: 'cout': undeclared identifier
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\Source.cpp(444,45): error C2065: 'endl': undeclared identifier
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\Source.cpp(446,4): error C2065: 'cout': undeclared identifier
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\Source.cpp(446,46): error C2065: 'endl': undeclared identifier
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\Source.cpp(453,4): error C2065: 'cout': undeclared identifier
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\Source.cpp(453,44): error C2065: 'endl': undeclared identifier
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\Source.cpp(455,4): error C2065: 'cout': undeclared identifier
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\Source.cpp(455,45): error C2065: 'endl': undeclared identifier
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\Source.cpp(460,3): error C2065: 'cout': undeclared identifier
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\Source.cpp(460,45): error C2065: 'endl': undeclared identifier
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\Source.cpp(479,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\Source.cpp(480,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\Source.cpp(484,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\Source.cpp(485,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\Source.cpp(487,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\Source.cpp(488,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\Source.cpp(497,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  cylinder.cpp
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\vertexBufferObject.h(1,1): error C2019: expected preprocessor directive, found '#'
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\staticMesh3D.h(6,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\vertexBufferObject.h(119,11): error C2146: syntax error: missing ';' before identifier 'once'
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\staticMesh3D.h(6,28): error C2143: syntax error: missing ';' before '{'
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\staticMesh3D.h(6,28): error C2447: '{': missing function header (old-style formal list?)
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\cylinder.h(12,5): error C2504: 'StaticMesh3D': base class undefined
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\cylinder.h(17,14): error C3668: 'static_meshes_3D::Cylinder::render': method with override specifier 'override' did not override any base class methods
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\cylinder.h(18,14): error C3668: 'static_meshes_3D::Cylinder::renderPoints': method with override specifier 'override' did not override any base class methods
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\cylinder.h(44,14): error C3668: 'static_meshes_3D::Cylinder::initializeData': method with override specifier 'override' did not override any base class methods
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\cylinder.cpp(14,11): error C2614: 'static_meshes_3D::Cylinder': illegal member initialization: 'StaticMesh3D' is not a base or member
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\cylinder.cpp(39,13): error C2065: '_isInitialized': undeclared identifier
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\cylinder.cpp(49,31): error C2065: '_vao': undeclared identifier
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\cylinder.cpp(50,27): error C2065: '_vao': undeclared identifier
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\cylinder.cpp(51,9): error C2065: '_vbo': undeclared identifier
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\cylinder.cpp(51,24): error C3861: 'getVertexByteSize': identifier not found
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\cylinder.cpp(66,13): error C3861: 'hasPositions': identifier not found
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\cylinder.cpp(82,17): error C2065: '_vbo': undeclared identifier
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\cylinder.cpp(83,17): error C2065: '_vbo': undeclared identifier
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\cylinder.cpp(88,13): error C2065: '_vbo': undeclared identifier
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\cylinder.cpp(92,17): error C2065: '_vbo': undeclared identifier
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\cylinder.cpp(97,13): error C2065: '_vbo': undeclared identifier
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\cylinder.cpp(101,17): error C2065: '_vbo': undeclared identifier
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\cylinder.cpp(105,13): error C3861: 'hasTextureCoordinates': identifier not found
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\cylinder.cpp(114,17): error C2065: '_vbo': undeclared identifier
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\cylinder.cpp(115,17): error C2065: '_vbo': undeclared identifier
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\cylinder.cpp(123,13): error C2065: '_vbo': undeclared identifier
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\cylinder.cpp(125,17): error C2065: '_vbo': undeclared identifier
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\cylinder.cpp(129,13): error C2065: '_vbo': undeclared identifier
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\cylinder.cpp(131,17): error C2065: '_vbo': undeclared identifier
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\cylinder.cpp(135,13): error C3861: 'hasNormals': identifier not found
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\cylinder.cpp(138,17): error C2065: '_vbo': undeclared identifier
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\cylinder.cpp(142,13): error C2065: '_vbo': undeclared identifier
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\cylinder.cpp(145,13): error C2065: '_vbo': undeclared identifier
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\cylinder.cpp(149,9): error C2065: '_vbo': undeclared identifier
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\cylinder.cpp(150,9): error C2065: '_vbo': undeclared identifier
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\cylinder.cpp(151,9): error C3861: 'setVertexAttributesPointers': identifier not found
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\cylinder.cpp(153,9): error C2065: '_isInitialized': undeclared identifier
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\cylinder.cpp(158,14): error C2065: '_isInitialized': undeclared identifier
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\cylinder.cpp(162,27): error C2065: '_vao': undeclared identifier
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\cylinder.cpp(176,14): error C2065: '_isInitialized': undeclared identifier
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\cylinder.cpp(181,27): error C2065: '_vao': undeclared identifier
+  staticMeshIndexed3D.cpp
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\vertexBufferObject.h(1,1): error C2019: expected preprocessor directive, found '#'
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\staticMesh3D.h(6,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\vertexBufferObject.h(119,11): error C2146: syntax error: missing ';' before identifier 'once'
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\staticMesh3D.h(6,28): error C2143: syntax error: missing ';' before '{'
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\staticMesh3D.h(6,28): error C2447: '{': missing function header (old-style formal list?)
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\staticMeshIndexed3D.h(12,5): error C2504: 'StaticMesh3D': base class undefined
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\staticMeshIndexed3D.h(17,14): error C3668: 'static_meshes_3D::StaticMeshIndexed3D::deleteMesh': method with override specifier 'override' did not override any base class methods
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\staticMeshIndexed3D.cpp(7,11): error C2614: 'static_meshes_3D::StaticMeshIndexed3D': illegal member initialization: 'StaticMesh3D' is not a base or member
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\staticMeshIndexed3D.cpp(11,13): error C2065: '_isInitialized': undeclared identifier
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\staticMeshIndexed3D.cpp(19,13): error C2065: '_isInitialized': undeclared identifier
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\staticMeshIndexed3D.cpp(21,37): error C2653: 'StaticMesh3D': is not a class or namespace name
+  torus.cpp
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\vertexBufferObject.h(1,1): error C2019: expected preprocessor directive, found '#'
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\staticMesh3D.h(6,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\vertexBufferObject.h(119,11): error C2146: syntax error: missing ';' before identifier 'once'
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\staticMesh3D.h(6,28): error C2143: syntax error: missing ';' before '{'
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\staticMesh3D.h(6,28): error C2447: '{': missing function header (old-style formal list?)
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\staticMeshIndexed3D.h(12,5): error C2504: 'StaticMesh3D': base class undefined
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\staticMeshIndexed3D.h(17,14): error C3668: 'static_meshes_3D::StaticMeshIndexed3D::deleteMesh': method with override specifier 'override' did not override any base class methods
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\torus.h(17,14): error C3668: 'static_meshes_3D::Torus::render': method with override specifier 'override' did not override any base class methods
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\torus.h(18,14): error C3668: 'static_meshes_3D::Torus::renderPoints': method with override specifier 'override' did not override any base class methods
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\torus.h(36,14): error C3668: 'static_meshes_3D::Torus::initializeData': method with override specifier 'override' did not override any base class methods
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\torus.cpp(21,13): error C2065: '_isInitialized': undeclared identifier
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\torus.cpp(31,31): error C2065: '_vao': undeclared identifier
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\torus.cpp(32,27): error C2065: '_vao': undeclared identifier
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\torus.cpp(33,9): error C2065: '_vbo': undeclared identifier
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\torus.cpp(33,24): error C3861: 'getVertexByteSize': identifier not found
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\torus.cpp(40,13): error C3861: 'hasPositions': identifier not found
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\torus.cpp(61,21): error C2065: '_vbo': undeclared identifier
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\torus.cpp(72,13): error C3861: 'hasTextureCoordinates': identifier not found
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\torus.cpp(87,21): error C2065: '_vbo': undeclared identifier
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\torus.cpp(97,13): error C3861: 'hasNormals': identifier not found
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\torus.cpp(117,21): error C2065: '_vbo': undeclared identifier
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\torus.cpp(147,9): error C2065: '_vbo': undeclared identifier
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\torus.cpp(148,9): error C2065: '_vbo': undeclared identifier
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\torus.cpp(149,9): error C3861: 'setVertexAttributesPointers': identifier not found
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\torus.cpp(154,9): error C2065: '_isInitialized': undeclared identifier
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\torus.cpp(159,14): error C2065: '_isInitialized': undeclared identifier
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\torus.cpp(163,27): error C2065: '_vao': undeclared identifier
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\torus.cpp(177,14): error C2065: '_isInitialized': undeclared identifier
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\torus.cpp(181,27): error C2065: '_vao': undeclared identifier
+  vertexBufferObject.cpp
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\vertexBufferObject.h(1,1): error C2019: expected preprocessor directive, found '#'
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\vertexBufferObject.cpp(8,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\vertexBufferObject.h(119,11): error C2146: syntax error: missing ';' before identifier 'once'
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\vertexBufferObject.cpp(9,1): error C2143: syntax error: missing ';' before '{'
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\vertexBufferObject.cpp(9,1): error C2447: '{': missing function header (old-style formal list?)
+  StaticMesh3d.cpp
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\vertexBufferObject.h(1,1): error C2019: expected preprocessor directive, found '#'
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\staticMesh3D.h(6,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\vertexBufferObject.h(119,11): error C2146: syntax error: missing ';' before identifier 'once'
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\staticMesh3D.h(6,28): error C2143: syntax error: missing ';' before '{'
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\staticMesh3D.h(6,28): error C2447: '{': missing function header (old-style formal list?)
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\StaticMesh3d.cpp(9,54): error C2653: 'StaticMesh3D': is not a class or namespace name
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\StaticMesh3d.cpp(10,64): error C2653: 'StaticMesh3D': is not a class or namespace name
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\StaticMesh3d.cpp(11,52): error C2653: 'StaticMesh3D': is not a class or namespace name
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\StaticMesh3d.cpp(13,31): error C2653: 'StaticMesh3D': is not a class or namespace name
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\StaticMesh3d.cpp(14,9): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\StaticMesh3d.cpp(16,36): error C2550: 'static_meshes_3D::StaticMesh3D': constructor initializer lists are only allowed on constructor definitions
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\StaticMesh3d.cpp(16,37): warning C4508: 'static_meshes_3D::StaticMesh3D': function should return a value; 'void' return type assumed
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\StaticMesh3d.cpp(18,32): error C2653: 'StaticMesh3D': is not a class or namespace name
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\StaticMesh3d.cpp(18,32): error C2523: '<Unknown>::~StaticMesh3D': destructor tag mismatch
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\StaticMesh3d.cpp(19,5): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\StaticMesh3d.cpp(20,9): error C3861: 'deleteMesh': identifier not found
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\StaticMesh3d.cpp(21,5): warning C4508: 'static_meshes_3D::StaticMesh3D': function should return a value; 'void' return type assumed
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\StaticMesh3d.cpp(23,34): error C2653: 'StaticMesh3D': is not a class or namespace name
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\StaticMesh3d.cpp(25,14): error C2065: '_isInitialized': undeclared identifier
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\StaticMesh3d.cpp(29,34): error C2065: '_vao': undeclared identifier
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\StaticMesh3d.cpp(30,9): error C2065: '_vbo': undeclared identifier
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\StaticMesh3d.cpp(32,9): error C2065: '_isInitialized': undeclared identifier
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\StaticMesh3d.cpp(35,36): error C2653: 'StaticMesh3D': is not a class or namespace name
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\StaticMesh3d.cpp(36,5): error C2270: 'hasPositions': modifiers not allowed on nonmember functions
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\StaticMesh3d.cpp(37,16): error C2065: '_hasPositions': undeclared identifier
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\StaticMesh3d.cpp(40,45): error C2653: 'StaticMesh3D': is not a class or namespace name
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\StaticMesh3d.cpp(41,5): error C2270: 'hasTextureCoordinates': modifiers not allowed on nonmember functions
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\StaticMesh3d.cpp(42,16): error C2065: '_hasTextureCoordinates': undeclared identifier
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\StaticMesh3d.cpp(45,34): error C2653: 'StaticMesh3D': is not a class or namespace name
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\StaticMesh3d.cpp(46,5): error C2270: 'hasNormals': modifiers not allowed on nonmember functions
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\StaticMesh3d.cpp(47,16): error C2065: '_hasNormals': undeclared identifier
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\StaticMesh3d.cpp(50,40): error C2653: 'StaticMesh3D': is not a class or namespace name
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\StaticMesh3d.cpp(51,5): error C2270: 'getVertexByteSize': modifiers not allowed on nonmember functions
+\\apporto.com\dfs\SNHU\USERS\brittanynikit_snhu\Desktop\Module 4 Assignment\OpenGLSample\OpenGLSample\StaticMesh3d.cpp(66,51): error C2653: 'StaticMesh3D': is not a class or namespace name
+  Generating Code...
